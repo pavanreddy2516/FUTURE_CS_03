@@ -142,4 +142,3 @@ This assessment was conducted exclusively on the publicly available **JSONPlaceh
 
 Cyber Security Intern – Future Interns
 
-B.Tech Cyber Security Student | SRM Institute of Science and Technology
